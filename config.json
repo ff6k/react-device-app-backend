@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://rocket-storage:9ZyqJUDU8HOQnPmX1EIGNMA2f21pSZ48M4BfvXRyJBHT3Lr8SiTpAtAOdBBO4wSse9o034hqnAtTcXT40NmghQ==@rocket-storage.documents.azure.com:10255/rocketiot?ssl=true&replicaSet=globaldb",
+    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
